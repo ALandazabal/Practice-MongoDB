@@ -1,3 +1,5 @@
+#This file contain the metods to cursos
+
 from flask import Blueprint, request, jsonify
 from . import db
 import json

@@ -4,7 +4,7 @@ import json
 
 bp = Blueprint('carreras', __name__, url_prefix='/carreras')
 
-
+#This contain all the methods
 @bp.route('', methods=['GET', 'POST', 'PUT', 'DELETE'])
 def carreras_func():
     carrera_id = request.args.get('id')
