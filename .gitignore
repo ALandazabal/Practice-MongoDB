@@ -1,6 +1,4 @@
-/*
-/platzi-api/__pycache__/*
-!/platzi-api
-!README.md
-!requirements.txt
-!.gitignore
+platzi-api/__pycache__
+README.md
+requirements.txt
+.gitignore
